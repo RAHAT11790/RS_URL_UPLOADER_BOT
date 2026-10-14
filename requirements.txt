@@ -1,0 +1,8 @@
+# Pyrogram-compatible fork with Bot API 9.4 coloured buttons (still `import pyrogram`).
+# Do NOT install the original "pyrogram" package next to it.
+kittygram
+TgCrypto
+aiohttp
+Pillow
+motor
+pymongo
